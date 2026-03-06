@@ -2,11 +2,29 @@
 
 # 📌 Sumário
 
-1. [Introdução](#introdução)
-2. [Módulos do Curso](#módulos-do-curso)
-3. [Exercícios](#exercícios)
-4. [Links Úteis](#links-úteis)
+## 📚 Sobre o Curso
 
+1. 📖 [Introdução](#-introdução)  
+2. 🎯 [Objetivos do Curso](#-objetivos-do-curso)  
+3. 🧰 [Ferramentas Utilizadas](#-ferramentas-utilizadas)  
+4. 🧑‍💻 [Metodologia](#-metodologia)  
+5. 💡 [Recomendações para os Alunos](#-recomendações-para-os-alunos)  
+6. 📬 [Suporte](#-suporte)  
+7. 🚀 [Vamos começar!](#-vamos-começar)
+
+---
+
+## 💻 Conteúdo do Curso
+
+8. 📂 [Módulos do Curso](#-módulos-do-curso)  
+9. 📝 [Exercícios](#-exercícios)
+
+---
+
+## 🔗 Recursos e Ferramentas
+
+10. 🔗 [Links Úteis](#-links-úteis)  
+11. 📝 [Sobre o Markdown](#-sobre-o-markdown)
 *******
 
 # 📖 Introdução
@@ -104,6 +122,8 @@ Prepare seu ambiente, abra seu editor ou notebook e **vamos mergulhar no univers
 
 *******
 
+# 📝 Sobre o Markdown
+
 > Este repositório utiliza a linguagem de marcação **Markdown** para formatar seus textos. O Markdown é amplamente utilizado na formatação de arquivos README, na criação de mensagens em fóruns de discussão online e na elaboração de textos mais ricos usando um editor de texto simples. Se você não está familiarizado com o Markdown, não se preocupe - é fácil de aprender! Você pode obter mais informações sobre como utilizá-lo através deste tutorial em [Português](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md).
 
 ---
@@ -113,11 +133,11 @@ Prepare seu ambiente, abra seu editor ou notebook e **vamos mergulhar no univers
 
 Aqui você encontrará os principais tópicos abordados no curso, organizados em arquivos específicos:
 
-* 📥 [Entrada e Saída de Dados](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/entrada_saida.md)
-* 🔢 [Operadores](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/operadores.md)
-* 🔀 [Estruturas Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/condicionais.md)
+* 📥 [Entrada e Saída de Dados](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/entrada_saida.md)
+* 🔢 [Operadores](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/operadores.md)
+* 🔀 [Estruturas Condicionais](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/condicionais.md)
 * 🔄 [Estruturas de Repetição](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/repeticao.md)
-* 🛠 [Funções](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/funcoes.md)
+* 🛠 [Funções](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/funcoes.md)
 
 ---
 
@@ -125,13 +145,13 @@ Aqui você encontrará os principais tópicos abordados no curso, organizados em
 
 Para reforçar o aprendizado, pratique com os exercícios disponíveis nos seguintes tópicos:
 
-* 🚀 [Iniciais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/iniciais.md)
-* ✏️ [Básicos](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/exercicio_python_basico.md)
-* ❓ [Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/Exerc%C3%ADcios%20condicionais.md)
-* 🔁 [Repetição](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/EXERCICIOS-REPETICAO-logica.md)
+* 🚀 [Iniciais](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/iniciais.md)
+* ✏️ [Básicos](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/exercicio_python_basico.md)
+* ❓ [Condicionais](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/Exerc%C3%ADcios%20condicionais.md)
+* 🔁 [Repetição](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/EXERCICIOS-REPETICAO-logica.md)
 * 🔄🔀 [Repetição e Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/rep_cond.md)
-* ⚙️ [Funções](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/funcoes_1.md)
-* 🎲 [Diversos](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/misturados.md)
+* ⚙️ [Funções](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/funcoes_1.md)
+* 🎲 [Diversos](https://github.com/EricoBorgonove/074-03-2026-MAT-Python-para-Analises-de-dados-com-Anaconda/blob/main/files/misturados.md)
 
 ---
 
