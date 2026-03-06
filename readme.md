@@ -122,10 +122,6 @@ Prepare seu ambiente, abra seu editor ou notebook e **vamos mergulhar no univers
 
 *******
 
-# 📝 Sobre o Markdown
-
-> Este repositório utiliza a linguagem de marcação **Markdown** para formatar seus textos. O Markdown é amplamente utilizado na formatação de arquivos README, na criação de mensagens em fóruns de discussão online e na elaboração de textos mais ricos usando um editor de texto simples. Se você não está familiarizado com o Markdown, não se preocupe - é fácil de aprender! Você pode obter mais informações sobre como utilizá-lo através deste tutorial em [Português](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md).
-
 ---
 
 
@@ -169,3 +165,7 @@ Aqui estão algumas ferramentas que podem auxiliar no desenvolvimento e prática
 6. [PythonOnline](https://pythononline.net/) - Outra opção para rodar Python online.
 
 💡 _Aproveite o curso e bons estudos! 🚀_
+
+# 📝 Sobre o Markdown
+
+> Este repositório utiliza a linguagem de marcação **Markdown** para formatar seus textos. O Markdown é amplamente utilizado na formatação de arquivos README, na criação de mensagens em fóruns de discussão online e na elaboração de textos mais ricos usando um editor de texto simples. Se você não está familiarizado com o Markdown, não se preocupe - é fácil de aprender! Você pode obter mais informações sobre como utilizá-lo através deste tutorial em [Português](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md).
